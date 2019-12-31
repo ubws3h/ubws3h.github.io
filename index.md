@@ -1,9 +1,9 @@
 ---
-title: /
+title: /blog
 layout: home
-permalink: /
+permalink: /blog
 ---
 
-# Things change,roll with it
+# Greeting.
 
 
