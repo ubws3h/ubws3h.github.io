@@ -4,8 +4,6 @@ layout: page
 permalink: /about/
 ---
 
-# :D
-
-Life & Art
+# Life & Art
 
 Before all else,be armed.
