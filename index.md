@@ -1,5 +1,5 @@
 ---
-title: /blog
+title: archives
 layout: home
 permalink: /
 ---
