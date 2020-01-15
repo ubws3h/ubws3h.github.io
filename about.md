@@ -4,6 +4,6 @@ layout: page
 permalink: /about/
 ---
 
-# Life & Art
+# Unseen World
 
 Before all else,be armed.
